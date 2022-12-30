@@ -1,0 +1,22 @@
+{
+  "name": "understanding-typescript",
+  "version": "1.0.0",
+  "description": "Understanding TypeScript - 2023 Edition",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FlorianCoussy/typescript.git"
+  },
+  "keywords": [
+    "typescript"
+  ],
+  "author": "Florian Coussy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FlorianCoussy/typescript/issues"
+  },
+  "homepage": "https://github.com/FlorianCoussy/typescript#readme"
+}
