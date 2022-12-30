@@ -14,9 +14,9 @@
     "typescript"
   ],
   "author": "Florian Coussy",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/FlorianCoussy/typescript/issues"
-  },
-  "homepage": "https://github.com/FlorianCoussy/typescript#readme"
+  "license": "MIT",
+  "homepage": "https://github.com/FlorianCoussy/typescript#readme",
+  "devDependencies": {
+    "lite-server": "^2.6.1"
+  }
 }
